@@ -2,7 +2,7 @@
 
 
 
-| Header 1                  | Header 2            |
+| 用語                 | 英語表示            |
 | ---------                 | ------------------- | 
 | 条件（じょうけん）          | Conditions          |
 | 条件分岐（じょうけんぶんき） | Conditional Branch |
