@@ -1,3 +1,12 @@
 hi
 hihi
 you are ?
+<pre>
+条件（じょうけん）                    -      Conditions
+条件分岐（じょうけんぶんき）           -      Conditional Branch
+処理（しょり）                        -      Process
+関係演算子（かんけいえんざんし）       -           Relational Operator
+論理演算子（りろんえんざんし）         -          Logical Operator
+指定する（していする）                -      Specify
+
+</pre>
